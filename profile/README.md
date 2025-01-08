@@ -128,7 +128,7 @@ This application was developed through the teamwork and dedication of Group 4 fr
 - **Jonathan Fortino Chandra** (2702363784)  
 - **Delbert Sugihoentoro** (2702364156)  
 
-We sincerely thank our lecturer for their invaluable support and guidance throughout the project.
+We sincerely thank our lecturer, Kenny Jingga, S.Kom., M.T., for his invaluable support and guidance throughout the project.
 
 ---
 
